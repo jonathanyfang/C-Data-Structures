@@ -39,4 +39,4 @@ To compile, simply `make`.
 
 ### Testing
 
-Tests for errors and edge cases. Implemented reading of stdin
+Tests for errors and edge cases.

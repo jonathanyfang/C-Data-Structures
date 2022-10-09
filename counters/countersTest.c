@@ -4,7 +4,7 @@
  * usage: read names from stdin, each on one line
  *
  * Jonathan Fang
- * October 7, 2022
+ * October 9, 2022
  * CS50, Fall 2022
  */
 
